@@ -1,0 +1,16 @@
+# Linux Day 1 Practice 
+
+Today I learned basic Linux commands in Ubuntu terminal.
+ Commands Practiced
+ 1. pwd
+Used to display the current working directory.
+ 2. ls
+Used to list files and folders in the current directory.
+ 3. mkdir
+Used to create a new directory/folder.
+ 4. cd
+Used to navigate between directories.
+ 5. touch
+Used to create a new empty file.
+ Outcome
+Practiced basic navigation and file handling commands in Linux terminal using Ubuntu.
