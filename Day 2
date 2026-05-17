@@ -1,0 +1,29 @@
+# Linux Day 2 Practice
+
+Today I practiced additional Linux file handling commands in Ubuntu terminal.
+
+## Commands Practiced
+
+### 1. cat
+
+Used to display the content of a file.
+
+### 2. cp
+
+Used to copy files from one location to another.
+
+### 3. mv
+
+Used to move or rename files and directories.
+
+### 4. rm
+
+Used to remove/delete files.
+
+### 5. clear
+
+Used to clear the terminal screen.
+
+## Outcome
+
+Learned basic file management operations such as viewing, copying, renaming, deleting files, and managing terminal workspace in Linux.
