@@ -1,0 +1,10 @@
+mkdir linux-demo
+cd linux-demo
+touch notes.txt
+echo "Learning Linux" > notes.txt
+cat notes.txt
+cp notes.txt backup.txt
+mv backup.txt oldnotes.txt
+ls
+rm oldnotes.txt
+clear
